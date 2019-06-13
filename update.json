@@ -1,0 +1,21 @@
+{
+    "ios": {
+        "fullVersion": "2.1.21",
+        "buildId": "0",
+        "updateLog": {
+            "zh": "1.我的订单-订单列表(全豆半豆展示问题!).\n2.我的订单-订单列表-订单详情(全豆半豆展示问题!).\n3.购物车-下单BUG.\n4.售后-新增撤销功能.\n5.5月4提交的BUG",
+            "debug": false
+        },
+        "updateType": "optional"
+    },
+    "android": {
+        "fullVersion": "2.1.21",
+        "buildId": "0",
+        "updateLog": {
+            "zh": "1.我的订单-订单列表(全豆半豆展示问题!).\n2.我的订单-订单列表-订单详情(全豆半豆展示问题!).\n3.购物车-下单BUG.\n4.售后-新增撤销功能.\n5.5月4提交的BUG",
+            "debug": false
+        },
+        "updateType": "optional"
+    }
+
+}

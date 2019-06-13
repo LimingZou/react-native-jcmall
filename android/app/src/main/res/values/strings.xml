@@ -1,0 +1,10 @@
+<resources>
+	<string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">H8oUr4JXJiIbZAeXcvWDJhFKO0dS43b6ce30-26be-4796-b120-f131186309ed</string>
+    <string name="app_name">这儿买</string>
+    <string name="permission_dialog_title">需要“定位”权限</string>
+    <string name="permission_dialog_msg">我们需要“定位”您当前城市，\n操作路径：设置>应用>jcmall>权限</string>
+    <string name="permission_location_msg">因版本原因，您可能还需要如下操作：\n操作路径：设置>其他设置>安全隐私>定位服务</string>
+    <string name="no_permissions">应用需要必要的运行权限</string>
+    <string name="go_settings">去设置 ></string>
+    <string name="cancel">取消</string>
+</resources>

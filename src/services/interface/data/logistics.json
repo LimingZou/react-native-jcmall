@@ -1,0 +1,32 @@
+{
+  "code":0,
+  "result":{
+    "list":[
+      {
+        "id":1,
+        "title":"顺丰",
+        "type":1,
+        "delete_time":null
+      },
+      {
+        "id":2,
+        "title":"圆通",
+        "type":1,
+        "delete_time":null
+      },
+      {
+        "id":3,
+        "title":"中通",
+        "type":1,
+        "delete_time":null
+      },
+      {
+        "id":4,
+        "title":"德邦",
+        "type":1,
+        "delete_time":null
+      }
+    ]
+  },
+  "msg":null
+}

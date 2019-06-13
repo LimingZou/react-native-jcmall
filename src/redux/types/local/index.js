@@ -1,0 +1,3 @@
+export const GET_CURRENT_LOCATIONS = "GET_CURRENT_LOCATIONS"; // 获取定位信息
+export const UPDATE_CURRENT_AREA = "UPDATE_CURRENT_AREA"; // 更新选择城市
+

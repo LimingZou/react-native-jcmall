@@ -1,0 +1,24 @@
+{
+  "environment": [{
+    "type": "local",
+    "host": "192.168.0.123:8080",
+    "apiHost": "https://192.168.0.123:8080/gateway",
+    "uploadUrl":"http://47.103.34.3:9104/file/uploadFile"
+  }, {
+    "type": "dev-test",
+    "host": "testm.jckjclub.com",
+    "apiHost": "https://testm.jckjclub.com/gateway",
+    "uploadUrl":"http://47.103.34.3:9104/file/uploadFile"
+  }, {
+    "type": "dev",
+    "host": "devm.jckjclub.com",
+    "apiHost": "https://devm.jckjclub.com/gateway",
+    "uploadUrl":"http://47.103.34.3:9104/file/uploadFile"
+  }, {
+    "type": "production",
+    "host": "devm.jckjclub.com",
+    "apiHost": "https://devm.jckjclub.com/gateway",
+    "uploadUrl":"http://47.103.34.3:9104/file/uploadFile"
+  }],
+  "default": "dev"
+}
