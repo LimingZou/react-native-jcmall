@@ -21,7 +21,7 @@
     "axios": "^0.18.0",
     "coordtransform": "^2.1.2",
     "dva-core": "^1.4.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "lottie-react-native": "^2.5.10",
     "moment": "^2.22.2",
     "prop-types": "^15.6.2",
